@@ -1,20 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aalok Choudhari
-=======================================================================================================================================
-
-Java Developer, MERN Developer
-------------------------------
-
-Developing in Java with a command of MERN stack technologies, adept at building robust applications from backend to frontend. Passionate about collaborating & crafting scalable solutions and leveraging the latest tools to create seamless user experiences.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [aalokchoudhari2021@gmail.com](mailto:aalokchoudhari2021@gmail.com)
-* 🧠  I'm learning Spring, Swing and AWS
-* 🤝  I'm open to collaborating on interesing projects & coding discussions
-
-<a href="https://www.github.com/kaloa2025" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kaloa2025?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
 
 
 <p align="left">
