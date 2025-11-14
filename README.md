@@ -95,11 +95,3 @@ ASP.NET · AZURE · ANGULAR
   <img src="https://github-readme-stats.vercel.app/api?username=kaloa2025&show_icons=true&bg_color=000000&hide_border=true&text_color=9dbbbb&icon_color=7ce2ff" width="50%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaloa2025&include_all_commits=true&count_private=true&&show_icons=true&bg_color=000000&hide_border=true&text_color=9dbbbb&icon_color=7ce2ff" width="22%"/>
 </div>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2400&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=aalok.choudhari...;%3E%3E+Thank+you+!;Ciao,+Adiós+!" />
-</p>
-
----
